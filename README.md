@@ -6,7 +6,7 @@ The purpose of this analysis was to gather and evaluate data from the New York C
 ## Results
 
 Please view my Tableau project for visualizations of the data from this project:
-  https://public.tableau.com/app/profile/aaron.wolfe5289/viz/CitibikeVisualizations_16478274825070/Story1?publish=yes
+[Citibike Visualizations](https://public.tableau.com/app/profile/aaron.wolfe5289/viz/CitibikeVisualizations_16478274825070/Story1?publish=yes)
   
 A selection of pages from my Tableau project have been shown below, each with a brief interpretation of the findings. 
 
